@@ -25,7 +25,7 @@ Pattern programs are exercises that display a specific arrangement of characters
 ---
 
 ## Common Rules and Steps to Solve Patterns
-
+## [Hand Written Short Note](https://photos.app.goo.gl/LuT9WEFJESXknDYk8)
 Solving pattern problems can be simplified by following these general steps:
 
 1. **Analyze the Pattern**:  
