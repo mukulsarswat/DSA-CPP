@@ -1,3 +1,4 @@
+
 <!-- README: Programming Basics – Theory Pack (HTML) -->
 <div align="center">
   <h1 style="margin:0 0 8px; font-size:40px;">📘 Programming Basics – Theory Pack</h1>
@@ -8,6 +9,7 @@
   <div style="display:inline-block; padding:6px 10px; border-radius:999px; background:#f1f5f9; color:#0f172a; font-weight:600;">
     Easy • Basics • C++ flavored examples
   </div>
+
 </div>
 
 <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0;" />
