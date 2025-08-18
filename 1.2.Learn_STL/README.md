@@ -4,7 +4,9 @@ Welcome to **Learn STL and Important Points in C++ Language**!
 This repository is designed to help you understand the Standard Template Library (STL) in C++, along with essential tips and best practices for writing robust C++ code. Whether you're a beginner or brushing up your knowledge, this guide and the accompanying code samples will help you master C++ STL and crucial language concepts.
 
 ---
+## [Video Link](https://www.youtube.com/watch?v=RRVYpIET_RU&ab_channel=takeUforward)
 
+---
 ## Table of Contents
 
 - [Introduction](#introduction)
