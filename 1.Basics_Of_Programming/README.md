@@ -71,6 +71,8 @@ int main() {
       <li><strong>char</strong> – single character</li>
       <li><strong>bool</strong> – true/false</li>
       <li><strong>string</strong> – text (C++: <code>std::string</code>)</li>
+      <li><a href="#book">📚 Recommended Book</a></li>
+
     </ul>
     <pre style="background:#0b1021; color:#e5e7eb; padding:12px; border-radius:10px; overflow:auto;"><code>int a = 5; double pi = 3.14159; 
 char grade = 'A'; bool ok = true; 
@@ -165,6 +167,18 @@ while (i &lt;= 5) {
   </div>
 
   <!-- Functions -->
+ <section id="book" style="margin-top: 30px;">
+  <h2 style="color:#2c3e50;">📚 Recommended Book</h2>
+  <p>
+    For a more detailed explanation of C programming concepts, you can refer to the classic book:
+    <a href="https://www.slideshare.net/slideshow/let-us-c-yashwant-kanetkar1/21493342" 
+       target="_blank" 
+       style="color:#3498db; text-decoration:none; font-weight:bold;">
+      Let Us C by Yashwant Kanetkar
+    </a>
+  </p>
+</section>
+
   <div id="functions" style="border:1px solid #e5e7eb; border-radius:16px; padding:16px;">
     <h2 style="margin-top:0;">🧪 Functions (Pass by Value & Reference)</h2>
     <p>Reusable blocks. Passing by <em>value</em> copies; by <em>reference</em> allows modification.</p>
