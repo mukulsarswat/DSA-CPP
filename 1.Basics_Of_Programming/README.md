@@ -9,7 +9,11 @@
   <div style="display:inline-block; padding:6px 10px; border-radius:999px; background:#f1f5f9; color:#0f172a; font-weight:600;">
     Easy • Basics • C++ flavored examples
   </div>
-
+<div>
+      <a href="https://www.codechef.com/practice/cpp" style="text-decoration:none; margin-right:6px;">Solve</a> •
+      <a href="https://www.geeksforgeeks.org/cpp/cpp-exercises/" style="text-decoration:none; margin:0 6px;">Editorial</a> •
+      <a href="https://www.youtube.com/watch?v=EAR7De6Goz4&t=250s&ab_channel=takeUforward" style="text-decoration:none; margin:0 6px;">YouTube</a>
+    </div>
 </div>
 
 <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0;" />
@@ -53,13 +57,6 @@ int main() {
   cin &gt;&gt; x;
   cout &lt;&lt; "You typed " &lt;&lt; x &lt;&lt; "\n";
 }</code></pre>
-    <div>
-      <a href="https://github.com/meeeeet/verilog" style="text-decoration:none; margin-right:6px;">Solve</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Post Link</a> •
-      <a href="#" style="text-decoration:none; margin-left:6px;">YouTube</a>
-    </div>
-  </div>
 
   <!-- Data Types -->
   <div id="data-types" style="border:1px solid #e5e7eb; border-radius:16px; padding:16px;">
@@ -75,11 +72,7 @@ int main() {
     <pre style="background:#0b1021; color:#e5e7eb; padding:12px; border-radius:10px; overflow:auto;"><code>int a = 5; double pi = 3.14159; 
 char grade = 'A'; bool ok = true; 
 string name = "Alice";</code></pre>
-    <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Solve</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">YouTube</a>
-    </div>
+    
   </div>
 
   <!-- If Else -->
@@ -89,12 +82,7 @@ string name = "Alice";</code></pre>
     <pre style="background:#0b1021; color:#e5e7eb; padding:12px; border-radius:10px; overflow:auto;"><code>int n = 10;
 if (n % 2 == 0) cout &lt;&lt; "Even";
 else            cout &lt;&lt; "Odd";</code></pre>
-    <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Solve</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Post Link</a> •
-      <a href="#" style="text-decoration:none; margin-left:6px;">YouTube</a>
-    </div>
+    
   </div>
 
   <!-- Switch -->
@@ -107,12 +95,7 @@ switch (op) {
   case '-': cout &lt;&lt; "Sub"; break;
   default:  cout &lt;&lt; "Unknown";
 }</code></pre>
-    <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Solve</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Post Link</a> •
-      <a href="#" style="text-decoration:none; margin-left:6px;">YouTube</a>
-    </div>
+    
   </div>
 
   <!-- Arrays & Strings -->
@@ -125,11 +108,7 @@ for (int i = 0; i &lt; 5; ++i) cout &lt;&lt; a[i] &lt;&lt; " ";
 #include &lt;string&gt;
 string s = "hello";
 cout &lt;&lt; s.size();</code></pre>
-    <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Solve</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">YouTube</a>
-    </div>
+   
   </div>
 
   <!-- For Loops -->
@@ -139,12 +118,7 @@ cout &lt;&lt; s.size();</code></pre>
     <pre style="background:#0b1021; color:#e5e7eb; padding:12px; border-radius:10px; overflow:auto;"><code>for (int i = 1; i &lt;= 5; ++i) {
   cout &lt;&lt; i &lt;&lt; " ";
 }</code></pre>
-    <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Solve</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Post Link</a> •
-      <a href="#" style="text-decoration:none; margin-left:6px;">YouTube</a>
-    </div>
+    
   </div>
 
   <!-- While Loops -->
@@ -156,12 +130,7 @@ while (i &lt;= 5) {
   cout &lt;&lt; i &lt;&lt; " ";
   ++i;
 }</code></pre>
-    <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Solve</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Post Link</a> •
-      <a href="#" style="text-decoration:none; margin-left:6px;">YouTube</a>
-    </div>
+   
   </div>
 
   <!-- Functions -->
@@ -188,11 +157,7 @@ int main() {
   byValue(a); byRef(b);
   // a == 5, b == 10
 }</code></pre>
-    <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Solve</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
-      <a href="#" style="text-decoration:none; margin:0 6px;">YouTube</a>
-    </div>
+    
   </div>
 
   <!-- Time Complexity -->
@@ -248,12 +213,12 @@ long long sum(const vector&lt;int&gt;&amp; v){
   for(int x: v) s+=x;
   return s;
 }</code></pre>
-    <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Learn Basics</a> •
-      <a href="#" style="text-decoration:none; margin-left:6px;">Analyse Further</a>
-    </div>
+    
   </div>
-
+<div>
+      <a href="https://www.youtube.com/watch?v=EAR7De6Goz4&t=250s&ab_channel=takeUforward" style="text-decoration:none; margin-right:6px;">Learn Basics</a> •
+      <a href="https://www.geeksforgeeks.org/dsa/dsa-tutorial-learn-data-structures-and-algorithms/" style="text-decoration:none; margin-left:6px;">Analyse Further</a>
+    </div>
 </div>
 
 <!-- Footer -->
