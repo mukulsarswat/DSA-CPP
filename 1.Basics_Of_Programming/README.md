@@ -5,7 +5,7 @@
   <p style="margin:0 0 14px; font-size:16px; color:#555;">
     Quick theory notes with tiny examples for absolute clarity.
   </p>
-
+<ul> <li><a href="#book">📚 Recommended Book</a></li></ul>
   <div style="display:inline-block; padding:6px 10px; border-radius:999px; background:#f1f5f9; color:#0f172a; font-weight:600;">
     Easy • Basics • C++ flavored examples
   </div>
@@ -71,8 +71,6 @@ int main() {
       <li><strong>char</strong> – single character</li>
       <li><strong>bool</strong> – true/false</li>
       <li><strong>string</strong> – text (C++: <code>std::string</code>)</li>
-      <li><a href="#book">📚 Recommended Book</a></li>
-
     </ul>
     <pre style="background:#0b1021; color:#e5e7eb; padding:12px; border-radius:10px; overflow:auto;"><code>int a = 5; double pi = 3.14159; 
 char grade = 'A'; bool ok = true; 
