@@ -20,7 +20,6 @@ This repository is designed to help you understand the Standard Template Library
 - [Sample Code Snippets](#sample-code-snippets)
 - [Resources](#resources)
 - [Contributing](#contributing)
-- [License](#license)
 
 ---
 
@@ -136,12 +135,6 @@ sort(v.begin(), v.end(), [](int a, int b) { return a > b; }); // Descending
 ## Contributing
 
 Contributions are welcome! Please open issues or submit pull requests for improvements, code samples, or tips.
-
----
-
-## License
-
-This repository is licensed under the MIT License.
 
 ---
 
