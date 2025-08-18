@@ -14,6 +14,17 @@
       <a href="https://www.geeksforgeeks.org/cpp/cpp-exercises/" style="text-decoration:none; margin:0 6px;">Editorial</a> •
       <a href="https://www.youtube.com/watch?v=EAR7De6Goz4&t=250s&ab_channel=takeUforward" style="text-decoration:none; margin:0 6px;">YouTube</a>
     </div>
+   <section id="book" style="margin-top: 30px;">
+  <h2 style="color:#2c3e50;">📚 Recommended Book</h2>
+  <p>
+    For a more detailed explanation of C programming concepts, you can refer to the classic book:
+    <a href="https://www.slideshare.net/slideshow/let-us-c-yashwant-kanetkar1/21493342" 
+       target="_blank" 
+       style="color:#3498db; text-decoration:none; font-weight:bold;">
+      Let Us C by Yashwant Kanetkar
+    </a>
+  </p>
+</section>
 </div>
 
 <hr style="border:none; border-top:1px solid #e5e7eb; margin:24px 0;" />
@@ -134,17 +145,7 @@ while (i &lt;= 5) {
   </div>
 
   <!-- Functions -->
- <section id="book" style="margin-top: 30px;">
-  <h2 style="color:#2c3e50;">📚 Recommended Book</h2>
-  <p>
-    For a more detailed explanation of C programming concepts, you can refer to the classic book:
-    <a href="https://www.slideshare.net/slideshow/let-us-c-yashwant-kanetkar1/21493342" 
-       target="_blank" 
-       style="color:#3498db; text-decoration:none; font-weight:bold;">
-      Let Us C by Yashwant Kanetkar
-    </a>
-  </p>
-</section>
+
 
   <div id="functions" style="border:1px solid #e5e7eb; border-radius:16px; padding:16px;">
     <h2 style="margin-top:0;">🧪 Functions (Pass by Value & Reference)</h2>
