@@ -54,7 +54,7 @@ int main() {
   cout &lt;&lt; "You typed " &lt;&lt; x &lt;&lt; "\n";
 }</code></pre>
     <div>
-      <a href="#" style="text-decoration:none; margin-right:6px;">Solve</a> •
+      <a href="https://github.com/meeeeet/verilog" style="text-decoration:none; margin-right:6px;">Solve</a> •
       <a href="#" style="text-decoration:none; margin:0 6px;">Editorial</a> •
       <a href="#" style="text-decoration:none; margin:0 6px;">Post Link</a> •
       <a href="#" style="text-decoration:none; margin-left:6px;">YouTube</a>
