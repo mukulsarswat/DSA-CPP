@@ -15,5 +15,5 @@ Example 2:
 ## Tryout YourSelf Then go to SOLUTION Problem Link [GFG](https://www.geeksforgeeks.org/problems/palindrome0746/1) and [LeetCode](https://leetcode.com/problems/palindrome-number/)
 
 ## Solutiion
-1. By Reversing Number and Check for Palindrome.[Solution](./By_Reversing_Number)  <strong> TC: O(log10 n) and O(1) Space <strong>
-2. By using no. as string(_to_string). [Solution](./Number_as_String)    <strong>       TC: O(log10 n) and O(log10 n) Space </strong>
+1. By Reversing Number and Check for Palindrome.[Solution](./By_Reversing_Number.cpp)  <strong> TC: O(log10 n) and O(1) Space <strong>
+2. By using no. as string(_to_string). [Solution](./Number_as_String.cpp)    <strong>       TC: O(log10 n) and O(log10 n) Space </strong>
