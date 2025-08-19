@@ -1,7 +1,6 @@
 ## Problem Statement 
-Given an integer x, return true if x is a palindrome, and false otherwise.
+Given an integer x, return true if x is a <i> [Palindrome Number](https://en.wikipedia.org/wiki/Palindromic_number) </i> , and false otherwise.
 
-## <i> What is [Palindrome Number](https://en.wikipedia.org/wiki/Palindromic_number) </i> 
 
 ## Examples    
 Example 1:
