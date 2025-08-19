@@ -15,4 +15,8 @@ Output: 5
 Explanation: There are 5 digits in 58964, which are 1, 5, 8, 6 and 4.
 
 
-## TRYOUT YOURSELF THEN GO TO SOLUTION
+## TRYOUT YOURSELF THEN GO TO SOLUTION Problem Link <i>[GFG](https://www.geeksforgeeks.org/problems/count-digits-1606889545/1)</i>
+
+## Solutiion
+1. Simple Maths Solution Using Concept of n/10 each time ones place value. [Solution](./simple_approach.cpp)
+2. Logarithmic approach this more complex uses same concept but in log<sub>10</sub>n . [Solution](./log_solution.cpp)
