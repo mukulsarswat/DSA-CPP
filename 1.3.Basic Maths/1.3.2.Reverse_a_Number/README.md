@@ -17,3 +17,12 @@ Output: 543
 ## Solution
 1. Reversing Digit one by one. [Solution](./Reversing_digits_Solution.cpp)
 2. By Using String (_to_string).[Solution](./String_Solution.cpp)
+<!-- GeeksforGeeks -->
+<a href="https://auth.geeksforgeeks.org/user/your_gfg_username/">
+  <img src="https://cdn.simpleicons.org/geeksforgeeks/2F8D46" height="32" alt="GeeksforGeeks" />
+</a>
+
+<!-- LeetCode -->
+<a href="https://leetcode.com/your_leetcode_username/">
+  <img src="https://cdn.simpleicons.org/leetcode/FFA116" height="32" alt="LeetCode" />
+</a>
