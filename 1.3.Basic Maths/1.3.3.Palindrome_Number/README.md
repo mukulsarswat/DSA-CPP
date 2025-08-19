@@ -1,7 +1,7 @@
 ## Problem Statement 
 Given an integer x, return true if x is a palindrome, and false otherwise.
 
-<h2> <i> What is [Palindrome Number](https://en.wikipedia.org/wiki/Palindromic_number)? </i> </h2> 
+## <i> What is [Palindrome Number](https://en.wikipedia.org/wiki/Palindromic_number) </i> 
 
 ## Examples    
 Example 1:
