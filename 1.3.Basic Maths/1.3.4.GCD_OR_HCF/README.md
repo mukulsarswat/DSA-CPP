@@ -1,5 +1,5 @@
 ## Problem Statement  
-Write a program to find the GCD (Greatest Common Divisor) or HCF (Highest Common Factor) of two numbers.
+Write a program to find the [GCD](https://en.wikipedia.org/wiki/Greatest_common_divisor) (Greatest Common Divisor) or HCF (Highest Common Factor) of two numbers.
 
 ## Examples  
 Input: a = 12, b = 18  
