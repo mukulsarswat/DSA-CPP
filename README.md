@@ -11,6 +11,7 @@ Hereby, i will be referecing and taking Question from Striver's DSA Sheet you ca
 | Sr. No. | Topic                          | Description                          | 
 |---------|--------------------------------|--------------------------------------|
 | 0       | Getting Started                | Setting up and Using [LeetCode](https://leetcode.com/) and [GfG](https://www.geeksforgeeks.org/blogs/geeksforgeeks-practice-best-online-coding-platform/)  | 
-| 1       |1.1 Basics of C++                  | [Theory Notes](1.Basics_Of_Programming) | 
-|        |1.2 Logical Thinking                  | [Patterns](https://github.com/mukulsarswat/DSA-CPP/tree/f9d6bf587323b259e61b7c95813337f21fcd6267/1.1%20Patterns) |
-|        |1.3 Learn STL                  | [Theory and Examples](1.2.Learn_STL) |
+| 1       |1.0 Basics of C++                  | [Theory Notes](1.Basics_Of_Programming) | 
+|        |1.1 Logical Thinking                  | [Patterns](https://github.com/mukulsarswat/DSA-CPP/tree/f9d6bf587323b259e61b7c95813337f21fcd6267/1.1%20Patterns) |
+|        |1.2 Learn STL                  | [Theory and Examples](1.2.Learn_STL) |
+|        |1.3 Basic Maths                | [Playing With Number](1.3.Basic-Maths) |          |
