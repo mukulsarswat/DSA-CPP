@@ -1,7 +1,3 @@
-Absolutely, Mukul! Here's a README file styled exactly like your example, but focused on computing the GCD (Greatest Common Divisor) or HCF (Highest Common Factor):
-
----
-
 ## Problem Statement  
 Write a program to find the GCD (Greatest Common Divisor) or HCF (Highest Common Factor) of two numbers.
 
