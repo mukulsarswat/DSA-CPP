@@ -3,14 +3,19 @@
  NOTE: A prime number (or a prime) is a natural number greater than 1 that is not a product of two smaller natural numbers.
 ## Example 
 Example 1:
+<br>
 Input : 7
+<br>
 Output : True
+<br>
 Explanation : 7's Factors are 1 and 7 only.
-
-Example 2:
-Input: 12
+<br>
+<br>
+Example 2:<br>
+Input: 12 <br>
 Output: False
-Explanation: 12's Factors are 1,2,3,4,6 and 12 so,it's not a prime number.
+<br>
+Explanation: 12's Factors are 1,2,3,4,6 and 12 so,it's not a prime number.<br>
 
 ## Tryout YourSelf Then go to Solution.
 Problem Link [GFG](https://www.geeksforgeeks.org/problems/prime-number2314/1)
