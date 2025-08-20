@@ -15,9 +15,9 @@ Output: 1
 Explanation: 7 and 13 are co-prime, so their GCD is 1.
 
 ## Tryout Yourself then go to solution  
-Problem Link [GFG](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers/0) and [LeetCode](https://leetcode.com/problems/greatest-common-divisor-of-strings/)
+Problem Link <bold>[GFG](https://www.geeksforgeeks.org/problems/gcd-of-two-numbers/0) </bold>
 
 ## Solution  
 1. Using Euclidean Algorithm (Iterative). [Solution](./Euclidean_Iterative_Solution.cpp)  
 2. Using Euclidean Algorithm (Recursive). [Solution](./Euclidean_Recursive_Solution.cpp)  
-3. By Prime Factorization (Less Efficient). [Solution](./Prime_Factorization_Solution.cpp)
+3. By Prime Factorization (Less Efficient). [Solution](./Prime_Factorization_Solution.cpp) Extension of the solution returns all factors.
