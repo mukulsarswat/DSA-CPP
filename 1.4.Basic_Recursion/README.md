@@ -10,7 +10,7 @@ This project introduces the **core principles of recursion**, demonstrates simpl
 
 ## 🎯 Objectives
 - Understand how recursion works and when to use it.
-- Implement basic recursive functions like factorial, Fibonacci, and sum of digits.
+- Implement basic recursive functions like factorial, Fibonacci,[palindrome](./1.4.3.Palindrome_String) and [sum of digits](./1.4.2.sum_of_first_N.cpp).
 - Visualize the recursive call stack and return path.
 - Compare recursion with iterative approaches.
 
