@@ -17,3 +17,5 @@ Hereby, i will be referecing and taking Question from Striver's DSA Sheet you ca
 |        |1.3 Basic Maths                | [Playing With Number](https://github.com/mukulsarswat/DSA-CPP/tree/main/1.3.Basic%20Maths) | 
 |        |1.4 Basic Recursion               |[Theory and Practice Question](./1.4.Basic_Recursion/README.md)| 
 |        |1.5 Basic Hashing              | [Theroy of Hashing](./1.5.Basic_Hashing/README.md) | 
+| 2       |2.0 ARRAYs             | Practice Problems  | 
+
