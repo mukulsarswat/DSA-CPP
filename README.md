@@ -17,8 +17,8 @@ Hereby, i will be referecing and taking Question from Striver's DSA Sheet you ca
 |        |1.3 Basic Maths                | [Playing With Number](https://github.com/mukulsarswat/DSA-CPP/tree/main/1.3.Basic%20Maths) | 
 |        |1.4 Basic Recursion               |[Theory and Practice Question](./1.4.Basic_Recursion/README.md)| 
 |        |1.5 Basic Hashing              | [Theroy of Hashing](./1.5.Basic_Hashing/README.md) | 
-| 2       |2.0 ARRAYs             | EASY->MEDIUM->HARD  |
-|        |2.1 Array Level-EASY             | Easy Practice Problems  | 
+| 2       |2.0 ARRAYs             | [Basic Concept](./2.0.Arrays)  |
+|        |2.1 Array Level-EASY             | Easy Practice Problems | 
 |        |2.2 Array Level-Medium             | Medium Practice Problems  | 
 |        |2.3 Array Level-Hard             | Hard Practice Problems  | 
 
