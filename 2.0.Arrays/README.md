@@ -4,18 +4,6 @@
 Arrays are one of the most fundamental data structures in computer science. They provide a way to store elements of the same type in contiguous memory locations, allowing for efficient indexing and iteration.
 
 This README covers the basics of arrays, common operations, implementation strategies, and practice problems to build a strong foundation in DSA.
-
----
-
-## 📚 Table of Contents
-- [Introduction](#introduction)
-- [Array Operations](#array-operations)
-- [Time and Space Complexity](#time-and-space-complexity)
-- [Common Interview Problems](#common-interview-problems)
-- [Code Examples](#code-examples)
-- [Practice Resources](#practice-resources)
-- [Contributing](#contributing)
-
 ---
 
 ## 🧠 Introduction
