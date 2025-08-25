@@ -33,6 +33,27 @@ An **array** is a linear data structure that holds elements in a fixed-size cont
 
 ---
 
+🔹 Imagine an array:  
+`[10, 20, 30, 40, 50]`
+
+Each element is stored in a box, and each box has an index below it:
+
+```
++-----+-----+-----+-----+-----+
+|  10 |  20 |  30 |  40 |  50 |
++-----+-----+-----+-----+-----+
+  i=0   i=1   i=2   i=3   i=4
+```
+
+📍 Key Concepts:
+- Each value is stored at a specific index.
+- Indexing starts from 0.
+- Memory is contiguous—meaning each element is placed right next to the previous one.
+
+This layout helps explain how operations like access (`arr[2] → 30`) or updates (`arr[3] = 99`) work efficiently.
+
+---
+
 ## ⏱️ Time and Space Complexity
 
 - **Best case**: O(1) for access/update
@@ -62,26 +83,8 @@ An **array** is a linear data structure that holds elements in a fixed-size cont
 - [Hackerrank Arrays](https://www.hackerrank.com/domains/tutorials/10-days-of-javascript)
 
 ---
-Here’s a clean visualization of how an array works—perfect for beginners and documentation:
 
-🔹 Imagine an array:  
-`[10, 20, 30, 40, 50]`
 
-Each element is stored in a box, and each box has an index below it:
-
-```
-+-----+-----+-----+-----+-----+
-|  10 |  20 |  30 |  40 |  50 |
-+-----+-----+-----+-----+-----+
-  i=0   i=1   i=2   i=3   i=4
-```
-
-📍 Key Concepts:
-- Each value is stored at a specific index.
-- Indexing starts from 0.
-- Memory is contiguous—meaning each element is placed right next to the previous one.
-
-This layout helps explain how operations like access (`arr[2] → 30`) or updates (`arr[3] = 99`) work efficiently.
 
 ## 🤝 Contributing
 
