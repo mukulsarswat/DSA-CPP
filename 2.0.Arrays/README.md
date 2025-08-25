@@ -19,6 +19,12 @@ An **array** is a linear data structure that holds elements in a fixed-size cont
 
 ## 🛠️ Array Operations
 
++-----+-----+-----+-----+-----+
+|  10 |  20 |  30 |  40 |  50 |
++-----+-----+-----+-----+-----+
+  i=0   i=1   i=2   i=3   i=4
+
+
 | Operation        | Description                                      | Time Complexity |
 |------------------|--------------------------------------------------|------------------|
 | Access           | Retrieve element at index `i`                   | O(1)             |
